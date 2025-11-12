@@ -38,9 +38,3 @@ public class CougarBaking3 {
         input.close();
     }
 }
-
-
-
-
-
-
